@@ -1,0 +1,22 @@
+# Arquivos e pastas específicos do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+env/
+
+# Arquivos de configuração do ambiente
+.env
+.env.*
+
+# Logs e arquivos temporários
+*.log
+*.pot
+*.pyc
+*.swp
+*~
+
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db

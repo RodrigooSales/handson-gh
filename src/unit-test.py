@@ -1,0 +1,1 @@
+# generate unit tests for slugify function of src/main.py using PyUnit. Make sure to separately teste each of these: "trim leading and trailing spaces", "replace spaces with dashes", "lowercase the slug", "remove special characters", and finally "remove consecutive dashes from slug"
